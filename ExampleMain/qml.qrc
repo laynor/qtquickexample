@@ -1,5 +1,7 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
+        <file>Modules/com/example/ExampleComponents/MyComponent.qml</file>
+        <file>Modules/com/example/ExampleComponents/qmldir</file>
     </qresource>
 </RCC>
